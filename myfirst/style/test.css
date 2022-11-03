@@ -1,0 +1,27 @@
+h1 {
+    font-size: 120px;
+    text-shadow: 7px 7px 7px rgb(78, 4, 250);
+    line-height: 200px;
+    border: 7px solid white;
+  }
+
+i {
+    font-size: 80px;
+    color: rgb(249, 7, 7);
+  }
+
+p{
+    font-size: 60px;
+    color: darkslategrey;
+    line-height: 120px;
+}
+
+li {
+    font-size: 40px;
+    line-height: 80px;
+   }
+
+a {
+    font-size: 40px;
+    text-align: right;
+}
